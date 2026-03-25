@@ -1,17 +1,5 @@
 # 👋 Hey there! I'm Ketan Goel
 
-<div align="center">
-
-### 🎓 **B.Tech Student at MNNIT Allahabad**
-
-I'm passionate about building innovative full-stack applications and contributing to open-source projects. Currently exploring the intersection of **Web Development**, **Finance Tech**, and **Real-time Communication Systems**.
-
-[Connect with me](#connect) • [Explore my projects](#projects) • [Tech Stack](#tech-stack)
-
-</div>
-
----
-
 ## 🚀 About Me
 
 Hi! I'm **Ketan**, a B.Tech student at **MNNIT Allahabad**. I'm driven by the desire to create impactful software solutions that solve real-world problems. With a strong foundation in **full-stack development**, I'm constantly learning and experimenting with cutting-edge technologies.
